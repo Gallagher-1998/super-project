@@ -1,0 +1,9 @@
+
+server:
+  port: 8080
+dubbo:
+  registry:
+    protocol: zookeeper
+    address:
+  application:
+    name: project-web

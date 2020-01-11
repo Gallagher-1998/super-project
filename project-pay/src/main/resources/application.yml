@@ -1,0 +1,7 @@
+dubbo:
+  registry:
+    address:
+  application:
+    name: project-pay
+  protocol:
+    port: 20881

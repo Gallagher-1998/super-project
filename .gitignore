@@ -1,0 +1,3 @@
+# Project exclude paths
+/project-api/target/
+/project-user/target/

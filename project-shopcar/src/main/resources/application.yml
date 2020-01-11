@@ -1,0 +1,7 @@
+dubbo:
+  registry:
+    address:
+  application:
+    name: project-shopcar
+  protocol:
+    port: 20880
