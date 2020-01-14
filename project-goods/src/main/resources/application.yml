@@ -2,6 +2,6 @@ dubbo:
   registry:
     address:
   application:
-    name: project-
+    name: project-goods
   protocol:
     port: 20883
